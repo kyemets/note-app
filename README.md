@@ -22,7 +22,7 @@ npm run build
 
 ##  Starting the server to generate data
 ```sh
-node mockdata-generator.js
+node index.js
 ```
 ## The technologies that were used
 
